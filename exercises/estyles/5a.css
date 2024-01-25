@@ -1,0 +1,72 @@
+.tahoma-text {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 75px;
+}
+
+.course-title {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.course-level {
+  font-family: Verdana;
+  font-size: 17px;
+  color: grey;
+  margin-top: 0;
+}
+
+.course-description {
+  font-family: Verdana;
+  font-size: 17px;
+  width: 300px;
+}
+
+.button-getstarted {
+  background-color: green;
+  color: white;
+  border: none;
+  font-family: Verdana;
+  font-size: 17px;
+  border-radius: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-bottom: 75px;
+}
+
+.apple-head {
+  font-family: Arial;
+  font-size: 28px;
+  font-weight: bold;
+  width: 800px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.apple-help {
+  font-family: Arial;
+  font-size: 16px;
+  width: 800px;
+  text-align: center;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+.link-learnmore {
+  font-family: Arial;
+  color: rgb(62, 62, 180);
+  font-size: 16px;
+  width: 800px;
+  text-align: center;
+  margin-top: 12px;
+  cursor: pointer;
+}
+
+.link-learnmore:hover {
+text-decoration: underline;
+}

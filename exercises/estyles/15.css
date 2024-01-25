@@ -1,0 +1,43 @@
+body {
+  height: 3000px;
+}
+
+.X-button {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  border: none;
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+  position: absolute;
+  top:-18px;
+  left: -18px;
+  font-family: arial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bottom-right-container {
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.video-time {
+  font-family: roboto, arial;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
